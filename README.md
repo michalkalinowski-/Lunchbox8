@@ -10,3 +10,4 @@ Status
 * 01.07.2013 Ordered aluminium profiles
 * 02.07.2013 ETA for metalwork => 08.07
 * 04.07.2013 Aluminium profiles shipped => ETA 09.07
+* 13.07.2013 Metalwork is in (delayed)
