@@ -12,3 +12,4 @@ Status
 * 04.07.2013 Aluminium profiles shipped => ETA 09.07
 * 12.07.2013 ETA for PCB => 17.07
 * 14.07.2013 Metalwork is in (delayed), all looks fine
+* 20.07.2013 Switching to 2.5mm aluminium after first round of prototypes
