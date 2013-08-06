@@ -1,3 +1,3 @@
 Michal
 Michal Kalinowski’s MacBook Pro 
-July 18, 2013  Thursday, July 18, 2013 3:50:43 PM Central European Summer Time
+August 6, 2013  Tuesday, August 6, 2013 6:14:37 PM Central European Summer Time
