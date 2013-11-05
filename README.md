@@ -13,3 +13,6 @@ Status
 * 12.07.2013 ETA for PCB => 17.07
 * 14.07.2013 Metalwork is in (delayed), all looks fine
 * 18.07.2013 Rest of the elements has arrived. Made a stupid mistake and need to offset XLRs on PCB by 3mm
+* 21.08.2013 Found a stupid mistake on a PCB - unpredictable delay
+* 25.09.2013 Started a group buy on groupdiy.com
+
