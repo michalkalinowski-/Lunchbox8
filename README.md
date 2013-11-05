@@ -1,6 +1,9 @@
 Lunchbox 8
 ========
 
+![alt text](https://dl.dropboxusercontent.com/u/2264878/lbox.jpg "Lunchbox Drawing")
+
+
 An attempt to create cheapo version of API lunchbox. BEWARE: prototype has not been manufactured yet.
 
 Status
